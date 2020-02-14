@@ -1,0 +1,1 @@
+$('.jarallax').jarallax();
